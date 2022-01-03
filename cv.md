@@ -44,4 +44,5 @@ void main()
 # Personal qualities:
 ## reliable, easily trained, sociable and diligent, responsible, attentive and with developed logical thinking.
 # Links
-## My profile: 
+## My profile: https://github.com/Miksa7325
+## My projects: https://github.com/Miksa7325?tab=projects
