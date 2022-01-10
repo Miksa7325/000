@@ -11,7 +11,7 @@
 # Hobbies:
 - Sport
 - Computer studies
-- Chees
+- Chess
 # Special skills
 - HTML
 - CSS
@@ -19,28 +19,6 @@
 - Native Russian
 - English (A2)
 - computer literacy (Microsoft Office, Photoshop, autodesk)
-# Code example:
-```
-void main()
-{
-	char line[50], skobki[9] = "[{(<>)}]";
-	int i, j, kolvo = 0;
-	cout << "Vvedite stroky\n";
-	cin >> line;
-	for (j = 0; j < 8; j++)
-	{
-		for (i = 0; line[i]; i++)
-		{
-			if (skobki[j] == line[i])
-			{
-				kolvo++;
-			}
-		}
-		cout << skobki[j] << " - " << kolvo << "\n";
-		kolvo = 0;
-	}
-}
-```
 # Personal qualities:
 ## reliable, easily trained, sociable and diligent, responsible, attentive and with developed logical thinking.
 # Links
